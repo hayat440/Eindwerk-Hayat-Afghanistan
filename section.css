@@ -1,0 +1,92 @@
+*
+{
+    margin: 0px;
+}
+
+body 
+{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 17px;
+}
+
+
+.art2
+{
+    width:95%;
+    height: auto;
+    margin: 20px;
+    padding: 2px;
+    text-align: center;
+}
+.two
+{
+    border-color: black;
+    border-bottom-right-radius: 10%;    
+    border-top-left-radius: 10%;
+    border-width: 4px;
+    border-style: double;
+    background-color: white;
+    box-shadow: 10px 8px 6px 4px black;
+
+}
+.two img
+{
+    width: 50%;
+    height: auto;
+    float: right;
+    border-bottom-right-radius: 10%;
+    padding: 5px;
+}
+.art1
+{
+    width:95%;
+    height: auto;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+   
+}
+.one
+{
+    border-color: black;
+    border-bottom-right-radius: 10%;    
+    border-top-left-radius: 10%;
+    border-width: 4px;
+    border-style: double;
+    background-color: gray;
+    box-shadow: 10px 8px 6px 4px black;
+
+}
+
+.one img
+{
+    width: 50%;
+    height: auto;
+    float: left;
+    border-top-left-radius: 10%;
+    padding-top: 10px;
+}
+.text1
+{
+    width: 45%;
+    height:auto ;
+    float: right;
+    text-align: left;
+
+}
+
+.text2
+{
+    width: 45%;
+    height:auto ;
+    float: left;
+    text-align: left;
+    padding-left: 14px;
+    padding-top: 14px;
+
+}
+.bold
+{
+    font-size: large;
+    font-weight: bold;
+}
